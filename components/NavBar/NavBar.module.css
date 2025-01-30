@@ -1,0 +1,9 @@
+.links {
+  display: flex;
+  column-gap: 20px;
+  text-transform: uppercase;
+
+  & a:hover {
+    color: rgb(178, 170, 170);
+  }
+}
